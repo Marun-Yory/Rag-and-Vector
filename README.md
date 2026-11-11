@@ -23,15 +23,6 @@ This installs:
 
 ## Setting up API keys
 
-We need an API key to talk to the LLM. If you're using OpenAI, you'll
-need to deposit some money first. The minimum is $5 (as of June 2026).
-This lesson costs well under 10 cents to run, so that $5 goes a long
-way.
-
-I also recommend creating a separate OpenAI project for the course.
-Then you can open the usage page and see exactly how much you spent
-here, apart from your other work.
-
 The safest way to store the key is in a `.env` file that never gets
 committed to git.
 
